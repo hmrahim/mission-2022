@@ -16,10 +16,7 @@ h3{
 h1{
     text-transform: capitalize;
 }
-.intro-section{
-   
 
-}
 section{
     width: 90%;
     margin: 0 auto;
@@ -146,7 +143,9 @@ section{
 }
 
 
-
+.comunity{
+    margin: 100px auto;
+}
 .com-text{
     width: 50%;
     
@@ -186,3 +185,48 @@ section{
 .ft-text{
     color: #9B0000;
 }
+.languages h1{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+}
+.logo-text{
+    display: flex;
+}
+
+.block{
+    width: 30%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+}
+
+.block h3 {
+    margin: 0;
+    padding: 0;
+  
+}
+.block img{
+    width: 50px;
+    margin-right: 10px;
+}
+#block-1{background-color: #E7FBBE;}
+#block-2{background-color: #FFCBCB;}
+#block-3{background-color: #D9D7F1;}
+
+#block-2:hover{ 
+    background-color: #072227;
+    color:#fff
+}
+#block-1:hover{
+     background-color: #072227;
+        color:#fff
+    }
+#block-3:hover{
+     background-color: #072227;
+        color:#fff
+    }
