@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    
+
+}
+p{
+    font-size: 19px;
+    color: #444;
+}
+h3{
+    font-size: 25px
+}
+section{
+    width: 90%;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+}
+
+.intro{
+    width: 40%;
+    margin-left: 5%;
+}
+.intro .title {
+    
+    margin-top: 100px;
+    margin-bottom: 5px;
+    padding: 0 10px;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+    border-left: 5px solid #9B0000;
+    border-radius: 5px;
+}
+.intro .title h1{
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+.mission{
+    color: #9c3e3e;
+}
+.link-button{
+   
+   
+    padding: 10px 30px;
+    margin:10px 0;
+    margin-bottom: 30px;
+    background-color: #9B0000;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+
+
+}
+
+
+
+.row .intro img{
+    width: 70%;
+    margin-left: 100px;
+  
+   
+}
+.mission-section h1{
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+    color: #000B49;
+}
+.year{
+    color: #9B0000;
+
+}
+
+.card{
+    width: 30%;
+    margin: 3% 2%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.card p{
+    color: #444;
+    
+}
+.card img{
+    width: 60%;
+}
+#card-1{
+    background-color: #d3dedcd0;
+    
+}
+#card-2{
+    background-color: #fff89ab0;
+
+}
+#card-3{
+    background-color: #fed1efb7;
+
+}
+.development{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dev-text{
+    width: 50%;
+}
+.dev-text h1{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 700;
+}
+.dev-image{
+    width: 40%;
+}
+.dev-image img{
+    width: 70%;
+    margin-left: 5%;
+}
+
+
+.com-text{
+    width: 50%;
+    
+}
+.com-text h1{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 700;
+}
+.com-image{
+    width: 40%;
+}
+.com-image img{
+    width: 70%;
+    float: right;
+    margin-left: 4%;
+    
+}
