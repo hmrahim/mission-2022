@@ -16,6 +16,12 @@ h3{
 h1{
     text-transform: capitalize;
 }
+.intro-section{
+    background-image: url("./images/pictures/wp2809515-red-black-background-removebg-preview.png");
+    background-repeat: no-repeat;
+
+
+}
 section{
     width: 90%;
     margin: 0 auto;
@@ -109,6 +115,10 @@ section{
 .development{
     margin-top: 50px;
     margin-bottom: 50px;
+    background-image: url("./images/pictures/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    
 }
 .dev-text{
     width: 50%;
@@ -125,6 +135,7 @@ section{
     width: 70%;
     margin-left: 5%;
 }
+
 
 
 .com-text{
