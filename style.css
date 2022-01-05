@@ -13,6 +13,9 @@ p{
 h3{
     font-size: 25px
 }
+h1{
+    text-transform: capitalize;
+}
 section{
     width: 90%;
     margin: 0 auto;
@@ -141,4 +144,25 @@ section{
     float: right;
     margin-left: 4%;
     
+}
+
+
+.footer-section{
+    height: 200px;
+    background-color: #040303;
+}
+.footer-section h2{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 3px;
+    color: #fff;
+    padding-top: 30px;
+    font-family: 'Cookie', cursive;
+}
+.footer-section p{
+    text-align: center;
+
+}
+.ft-text{
+    color: #9B0000;
 }
