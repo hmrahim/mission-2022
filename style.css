@@ -149,6 +149,9 @@ section{
 
 .comunity{
     margin: 100px auto;
+    background-image: url("./images/pictures/dream-bg\ -\ Copy.png");
+    background-repeat: no-repeat;
+   
 }
 .com-text{
     width: 50%;
@@ -205,6 +208,7 @@ section{
     margin: 0 auto;
     padding: 10px;
     border-radius: 10px;
+    box-shadow: 4px 3px 10px black;
     
     
 }
